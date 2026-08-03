@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there 👋, I'm Saloni Choudhary
 
 ## Full Stack Developer| MERN Stack Developer | B.E. in Artificial Intelligence & Data Science
