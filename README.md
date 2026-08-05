@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Saloni Choudhary
 
-## Full Stack Developer| MERN Stack Developer | B.E. in Artificial Intelligence & Data Science
+## Full Stack Developer | MERN Stack Developer | B.E. in Artificial Intelligence & Data Science 
 
 I am a Bachelor of Engineering graduate in Artificial Intelligence and Data Science with a passion for building modern, responsive, and scalable web applications. I enjoy creating user-friendly interfaces, learning new technologies, and solving real-world problems through software development.
 
