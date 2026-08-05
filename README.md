@@ -70,7 +70,7 @@ I am a Bachelor of Engineering graduate in Artificial Intelligence and Data Scie
 
 📧 Email: salonichaudhary1415@gmail.com
 
-💼 LinkedIn: *(Add your LinkedIn URL)*
+💼 LinkedIn: Coming Soon
 
 🌐 Portfolio: Coming Soon
 
