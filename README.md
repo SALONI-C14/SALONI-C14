@@ -72,6 +72,6 @@ I am a Bachelor of Engineering graduate in Artificial Intelligence and Data Scie
 
 💼 LinkedIn: Coming Soon
 
-🌐 Portfolio: Coming Soon
+🌐 Portfolio: https://portfolio-salonichoudhary.vercel.app
 
 ⭐ Thank you for visiting my GitHub profile!<!--
