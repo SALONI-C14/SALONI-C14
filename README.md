@@ -68,9 +68,9 @@ I am a Bachelor of Engineering graduate in Artificial Intelligence and Data Scie
 
 ## 📫 Connect With Me
 
-📧 Email: salonichaudhary1415@gmail.com
+📧 Email: saloniwork1415@gmail.com
 
-💼 LinkedIn: Coming Soon
+💼 LinkedIn: https://www.linkedin.com/in/saloni-choudhary-75025a255/
 
 🌐 Portfolio: https://portfolio-salonichoudhary.vercel.app
 
