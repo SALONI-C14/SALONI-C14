@@ -65,24 +65,6 @@ I am a Bachelor of Engineering graduate in Artificial Intelligence and Data Scie
 - React Development
 
 ---
----
-
-## 🚀 Featured Projects
-
-### 🎬 Netflix Clone
-
-A responsive Netflix-inspired streaming platform UI built with HTML, CSS, and JavaScript.
-
-- 🎨 Responsive Netflix-style interface
-- 🧭 Navigation and interactive UI
-- 📱 Responsive design
-- 🚀 Deployed with Vercel
-
-🔗 **Live Demo:** [View Netflix Clone](https://netflix-clone-saloni1415.vercel.app/)
-
-🔗 **Source Code:** [GitHub Repository](https://github.com/SALONI-C14/Netflix-Clone)
-
----
 
 ## 📫 Connect With Me
 
