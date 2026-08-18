@@ -92,7 +92,7 @@ A modern, responsive notes application built with React and Vite, designed for c
 - React Router
 - Axios
 
-🔗 **Live Demo:** [View NoteFlow](https://note-app-opal-seven.vercel.app/)
+🔗 **Live Demo:** [View NoteFlow](https://noteflow-saloni.vercel.app/)
 
 🔗 **Source Code:** [GitHub Repository](https://github.com/SALONI-C14/Note-App)
 
